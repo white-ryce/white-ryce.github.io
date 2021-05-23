@@ -13,6 +13,7 @@ body
 {
     font-family: 'Quicksand', sans-serif;
     text-shadow: 2px 1px white;
+    text-decoration: underline;
 }
 
 .practice
