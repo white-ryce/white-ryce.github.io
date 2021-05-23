@@ -6,6 +6,7 @@ body
 .header 
 {
     border: 3px solid blue;
+    font-family: 'Quicksand', sans-serif;
 }
 
 .practice
