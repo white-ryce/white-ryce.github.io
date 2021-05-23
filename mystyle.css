@@ -16,7 +16,8 @@ body
     text-decoration: underline;
 }
 
-.practice
+.bodyOne
 {
     font-family: 'Quicksand', sans-serif;
+    font: #ECECEC;
 }
