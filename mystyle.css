@@ -8,7 +8,7 @@ body
     font-family: 'Quicksand', sans-serif;
     text-align: center;
 
-    box-shadow: 5px 10px;
+    box-shadow: 5px 10px #ECECEC;
     border-radius: 25px;
     background: #10b8e2;
     padding: 20px;
