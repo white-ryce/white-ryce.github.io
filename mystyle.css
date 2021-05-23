@@ -1,9 +1,9 @@
 body 
 {
-    background-color: aqua;
+    background-color: pink;
 }
 
 .header 
 {
-    color: blueviolet;
+    box-shadow: 10px 5px 5px aqua;
 }
