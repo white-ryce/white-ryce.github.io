@@ -93,6 +93,8 @@ body
 
 .skillsList
 {
-    text-align: left;
+    font-family: 'Quicksand', sans-serif;
+    color: #ECECEC;
+    text-align: left;    
 }
 
