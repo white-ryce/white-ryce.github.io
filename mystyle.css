@@ -90,6 +90,7 @@ body
 .columnOne
 {
     column-count: 3;
+    align-items: center;
 }
 
 .skillsList
