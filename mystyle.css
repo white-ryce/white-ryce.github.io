@@ -3,6 +3,7 @@ body
     background-color: #EEE2DC;
 }
 
+/* Box at the top of the site */
 .header 
 {
     font-family: 'Quicksand', sans-serif;
@@ -16,14 +17,29 @@ body
     height: 150px;
 }
 
+/* Just my name in header */
 .name
 {
     text-shadow: 2px 1px white;
     text-decoration: underline;
 }
 
+/* Body of the site */
 .bodyOne
 {
     font-family: 'Quicksand', sans-serif;
     color: #474753;
+}
+
+.boxOne
+{
+    font-family: 'Quicksand', sans-serif;
+    text-align: center;
+
+    box-shadow: 5px 10px #474753;
+    border-radius: 25px;
+    background: #A8D0E6;
+    padding: 20px;
+    width: 200px;
+    height: 150px;
 }
