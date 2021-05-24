@@ -103,3 +103,20 @@ body
     line-height: 1em;
 }
 
+.bigBox
+{
+    box-shadow: 0px 8px 6px -6px #474753;
+    /*border-radius: 25px;*/
+    background: #A8D0E6;
+    padding: 20px;
+    width: 800px;
+    height: 1000px; 
+}
+
+.columnTwo
+{
+    column-count: 2;
+    font-family: 'Quicksand', sans-serif;
+    color: #ECECEC;
+}
+
