@@ -86,3 +86,8 @@ body
     text-shadow: 2px 1px #19181A;
 }
 
+.columnOne
+{
+    column-count: 3;
+}
+
