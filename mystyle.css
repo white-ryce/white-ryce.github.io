@@ -95,6 +95,8 @@ body
 {
     font-family: 'Quicksand', sans-serif;
     color: #ECECEC;
-    text-align: left;    
+    text-shadow: 2px 1px #19181A;
+    text-align: left;  
+    margin: 10px 0;  
 }
 
