@@ -22,6 +22,7 @@ body
 {
     text-shadow: 2px 1px white;
     text-decoration: underline;
+    color: #474753;
 }
 
 /* Body of the site. Maybe the font color I'll use and font-family */
@@ -49,7 +50,7 @@ body
 .subHeaders
 {
     font-family: 'Quicksand', sans-serif;
-    color: #ECECEC;
+    color: #474753;
     text-decoration: underline;
-    text-shadow: 2px 1px #474753;
+    text-shadow: 2px 1px #ECECEC;
 }
