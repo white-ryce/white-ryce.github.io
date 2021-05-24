@@ -46,6 +46,20 @@ body
     height: 150px;
 }
 
+/* New box */
+.boxTwo
+{
+    font-family: 'Quicksand', sans-serif;
+    text-align: center;
+
+    box-shadow: 5px 10px #474753;
+    border-radius: 25px;
+    background: #fca400;
+    padding: 20px;
+    width: 200px;
+    height: 150px;
+}
+
 /* Use for the subheader items */
 .subHeaders
 {
@@ -54,3 +68,4 @@ body
     text-decoration: underline;
     text-shadow: 2px 1px #19181A;
 }
+
