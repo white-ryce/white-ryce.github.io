@@ -69,7 +69,9 @@ body
     font-family: 'Quicksand', sans-serif;
     text-align: center;
 
-    box-shadow: 5px 10px #474753;
+    /*Original*/
+    /*box-shadow: 5px 10px #474753;*/
+    box-shadow: 2.5px 5px #474753;
     border-radius: 25px;
     background: #488f5b;
     padding: 20px;
