@@ -9,9 +9,7 @@ body
     font-family: 'Quicksand', sans-serif;
     text-align: center;
 
-    /*Orginal Format*/
-    /*box-shadow: 5px 10px #474753;*/
-    box-shadow: 0px 0px 10px #474753;
+    box-shadow: 10px 15px #474753;
     border-radius: 25px;
     background: #A8D0E6;
     padding: 20px;
@@ -40,9 +38,9 @@ body
     font-family: 'Quicksand', sans-serif;
     text-align: center;
 
-    /*Original*/
-    /*box-shadow: 5px 10px #474753;*/
-    box-shadow: 0px 8px 6px -6px #474753;
+    /*Perfered Inner Shadow*/
+    /*box-shadow: 0px 8px 6px -6px #474753;*/
+    box-shadow: 10px 15px #474753;
     border-radius: 25px;
     background: #E9322E;
     padding: 20px;
@@ -56,7 +54,7 @@ body
     font-family: 'Quicksand', sans-serif;
     text-align: center;
 
-    box-shadow: 5px 10px #474753;
+    box-shadow: 10px 15px #474753;
     border-radius: 25px;
     background: #fca400;
     padding: 20px;
