@@ -60,6 +60,19 @@ body
     height: 150px;
 }
 
+.boxThree
+{
+    font-family: 'Quicksand', sans-serif;
+    text-align: center;
+
+    box-shadow: 5px 10px #474753;
+    border-radius: 25px;
+    background: #9FEDD7;
+    padding: 20px;
+    width: 200px;
+    height: 150px;
+}
+
 /* Use for the subheader items */
 .subHeaders
 {
