@@ -44,3 +44,10 @@ body
     width: 200px;
     height: 150px;
 }
+
+/* Use for the subheader items */
+.subHeaders
+{
+    font-family: 'Quicksand', sans-serif;
+    color: #ECECEC;
+}
