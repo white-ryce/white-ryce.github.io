@@ -1,7 +1,6 @@
 body 
 {
     background-color: #EEE2DC;
-    box-shadow: 5px 10px #474753;
 }
 
 /* Box at the top of the site */
@@ -10,7 +9,7 @@ body
     font-family: 'Quicksand', sans-serif;
     text-align: center;
 
-    box-shadow: 10px 15px #474753;
+    box-shadow: 0px 8px 6px -6px #474753;
     border-radius: 25px;
     background: #A8D0E6;
     padding: 20px;
