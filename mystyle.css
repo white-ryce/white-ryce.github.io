@@ -22,7 +22,7 @@ body
 {
     font-family: 'Noto Sans JP', sans-serif;
     text-shadow: 2px 1px #ECECEC;
-    color: #474753;
+    color: #19181A;
     text-align: left;
 }
 
@@ -120,8 +120,8 @@ body
     background: #75e8f7;
     padding: 20px;
     /*width orginal: 200px*/
-    width: 400px;
-    height: 150px;
+    width: 800px;
+    height: 400px;
     margin: auto;
 }
 
