@@ -81,7 +81,7 @@ body
     height: 150px;
 }
 
-.resumeBox
+.boxFour
 {
     font-family: 'Quicksand', sans-serif;
     text-align: center;
@@ -90,7 +90,7 @@ body
     /*box-shadow: 5px 10px #474753;*/
     box-shadow: 10px 15px #474753;
     border-radius: 25px;
-    background: #2a9df4;
+    background: #488f5b;
     padding: 20px;
     width: 400px;
     height: 150px;
