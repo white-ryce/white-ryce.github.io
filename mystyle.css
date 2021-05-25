@@ -91,7 +91,7 @@ body
 .columnOne
 {
     column-count: 3;
-    column-rule-width: 10px;
+    column-gap: 60px;
     margin: auto;
 }
 
@@ -110,6 +110,7 @@ body
 {
     font-family: 'Quicksand', sans-serif;
     color: #ECECEC;
+    text-shadow: 1px .5px #19181A;
     text-align: center;
 
     /*Perfered Inner Shadow*/
