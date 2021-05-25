@@ -20,8 +20,8 @@ body
 /* Just my name in header */
 .name
 {
-    font-family: 'Lobster', cursive;
-    text-shadow: 2px 1px white;
+    font-family: 'Noto Sans JP', sans-serif;
+    text-shadow: 2px 1px #ECECEC;
     color: #474753;
     text-align: left;
 }
