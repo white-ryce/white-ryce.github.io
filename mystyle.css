@@ -129,8 +129,8 @@ body
 .Resume
 {
     font-family: 'Quicksand', sans-serif;
-    color: #ECECEC;
-    text-shadow: 1px .5px #19181A;
+    color: #19181A;
+    text-shadow: 1px .5px #ECECEC;
     text-align: center;
     text-decoration: underline;
 }
