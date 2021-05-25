@@ -3,7 +3,7 @@ body
     background-color: #EEE2DC;
 }
 
-/* Box at the top of the site */
+/* Box at the top of the site. Unused right now*/
 .header 
 {
     font-family: 'Quicksand', sans-serif;
@@ -20,9 +20,11 @@ body
 /* Just my name in header */
 .name
 {
+    font-family: 'Lobster', cursive;
     text-shadow: 2px 1px white;
     text-decoration: underline;
     color: #474753;
+    text-align: left;
 }
 
 /* Body of the site. Maybe the font color I'll use and font-family */
