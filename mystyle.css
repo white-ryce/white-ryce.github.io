@@ -102,11 +102,11 @@ body
 .subHeaders
 {
     font-family: 'Quicksand', sans-serif;
-    color: #0fb138;
+    color: #e5ff00;
     /*ECECEC*/
     text-decoration: underline;
     text-shadow: 2px 1px #19181A;
-    margin-bottom: 20px;
+    margin-bottom: 40px;
 }
 
 .columnOne
