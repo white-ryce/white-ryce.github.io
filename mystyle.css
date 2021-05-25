@@ -83,6 +83,7 @@ body
 
 .boxFour
 {
+    margin: auto;
     font-family: 'Quicksand', sans-serif;
     text-align: center;
 
@@ -92,8 +93,8 @@ body
     border-radius: 25px;
     background: #2a9df4;
     padding: 20px;
-    width: 200px;
-    height: 100px;
+    width: 150px;
+    height: 50px;
 }
 
 /* Use for the subheader items */
