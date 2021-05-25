@@ -91,7 +91,7 @@ body
 .columnOne
 {
     column-count: 3;
-    column-gap: 125px;
+    column-gap: 150px;
     margin: auto;
 }
 
