@@ -86,6 +86,7 @@ body
     margin: auto;
     font-family: 'Quicksand', sans-serif;
     text-align: center;
+    
 
     /*Original*/
     /*box-shadow: 5px 10px #474753;*/
@@ -101,9 +102,11 @@ body
 .subHeaders
 {
     font-family: 'Quicksand', sans-serif;
-    color: #ECECEC;
+    color: #af1919;
+    /*ECECEC*/
     text-decoration: underline;
     text-shadow: 2px 1px #19181A;
+    margin-top: 5px;
 }
 
 .columnOne
