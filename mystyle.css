@@ -6,7 +6,7 @@ body
 /* Box at the top of the site. Unused right now*/
 .header 
 {
-    font-family: 'Quicksand', sans-serif;
+    /*font-family: 'Quicksand', sans-serif;*/
     text-align: center;
     margin: auto;
     box-shadow: 0px 8px 6px -6px #474753;
