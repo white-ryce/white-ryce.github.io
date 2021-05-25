@@ -97,7 +97,7 @@ body
 .skillsList
 {
     font-family: 'Quicksand', sans-serif;
-    color: #ECECEC;
+    color: #bd0b0b;
     text-shadow: 1px .5px #19181A;
     text-align: left;  
     margin: 10px 0;
@@ -118,8 +118,17 @@ body
 
 .columnTwo
 {
-    column-count: 2;
     font-family: 'Quicksand', sans-serif;
-    color: #c50424;
+    text-align: center;
+
+    /*Perfered Inner Shadow*/
+    /*box-shadow: 0px 8px 6px -6px #474753;*/
+    box-shadow: 10px 15px #474753;
+    border-radius: 25px;
+    background: #E9322E;
+    padding: 20px;
+    /*width orginal: 200px*/
+    width: 400px;
+    height: 150px;
 }
 
