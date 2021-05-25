@@ -91,14 +91,14 @@ body
 .columnOne
 {
     column-count: 3;
-    column-gap: 100px;
+    column-gap: 125px;
     margin: auto;
 }
 
 .skillsList
 {
     font-family: 'Quicksand', sans-serif;
-    color: #bd0b0b;
+    color: #ECECEC;
     text-shadow: 1px .5px #19181A;
     text-align: left;  
     margin: 10px 0;
