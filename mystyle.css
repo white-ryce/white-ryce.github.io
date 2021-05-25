@@ -111,7 +111,7 @@ body
 .columnTwo
 {
     font-family: 'Quicksand', sans-serif;
-    color: #ECECEC;
+    color: #19181A;
     text-shadow: 1px .5px #19181A;
 
     /*Perfered Inner Shadow*/
@@ -129,7 +129,7 @@ body
 .Resume
 {
     font-family: 'Quicksand', sans-serif;
-    color: #ECECEC;
+    color: #19181A;
     text-shadow: 1px .5px #19181A;
     text-align: center;
     text-decoration: underline;
