@@ -38,6 +38,7 @@ body
 {
     font-family: 'Quicksand', sans-serif;
     text-align: center;
+
     /*Perfered Inner Shadow*/
     /*box-shadow: 0px 8px 6px -6px #474753;*/
     box-shadow: 10px 15px #474753;
@@ -47,7 +48,6 @@ body
     /*width orginal: 200px*/
     width: 400px;
     height: 150px;
-    margin-top: 10px;
 }
 
 /* New box */
@@ -120,6 +120,6 @@ body
 {
     column-count: 2;
     font-family: 'Quicksand', sans-serif;
-    color: #cf03f8;
+    color: #c50424;
 }
 
