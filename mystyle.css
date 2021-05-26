@@ -104,7 +104,7 @@ body
 .subHeaders
 {
     font-family: 'Quicksand', sans-serif;
-    color: #800202;
+    color: #0780a5;
     /*ECECEC*/
     text-decoration: underline;
     text-shadow: 2px 1px #19181A;
@@ -142,6 +142,6 @@ body
 /* Right side of the body */
 .sideBody
 {
-   
+   text-align: right;
 }
 
