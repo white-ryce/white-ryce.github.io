@@ -121,6 +121,7 @@ body
     text-shadow: 2px 1px #19181A;
 }
 
+/*Spacing for the three boxes on top of the page */
 .columnOne
 {
     column-count: 3;
@@ -164,6 +165,7 @@ body
     color: #19181A;
 }
 
+/* Used for the top header outside of mainBody */
 .resumeHeaders
 {
     font-family: 'Quicksand', sans-serif;
@@ -174,6 +176,7 @@ body
     margin-left: 90px;
 }
 
+/* Used for the header inside of mainBody */
 .resumeHeadersInside
 {
     font-family: 'Quicksand', sans-serif;
