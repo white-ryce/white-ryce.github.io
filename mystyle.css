@@ -28,6 +28,15 @@ body
     text-align: left;
 }
 
+/* Style for contact information */
+.contact
+{
+    font-family: 'Noto Sans JP', sans-serif;
+    text-shadow: 6px 3px #ECECEC;
+    color: #19181A;
+    text-align: left;
+}
+
 /* Body of the site. Maybe the font color I'll use and font-family */
 .bodyOne
 {
@@ -104,7 +113,7 @@ body
 .subHeaders
 {
     font-family: 'Quicksand', sans-serif;
-    color: #13ca0d;
+    color: #ECECEC;
     /*ECECEC*/
     text-decoration: underline;
     text-shadow: 2px 1px #19181A;
