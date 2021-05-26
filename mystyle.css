@@ -174,3 +174,12 @@ body
     margin-left: 90px;
 }
 
+.resumeHeadersInside
+{
+    font-family: 'Quicksand', sans-serif;
+    color: #19BDFF;
+    /*ECECEC*/
+    text-decoration: underline;
+    text-shadow: 2px 1px #ECECEC;
+}
+
