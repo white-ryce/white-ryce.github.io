@@ -104,7 +104,7 @@ body
 .subHeaders
 {
     font-family: 'Quicksand', sans-serif;
-    color: #ba0dca;
+    color: #13ca0d;
     /*ECECEC*/
     text-decoration: underline;
     text-shadow: 2px 1px #19181A;
@@ -136,7 +136,7 @@ body
     color: #474753;
     text-shadow: 1px .5px #ECECEC;
     width: 33%;
-    margin-left: 20px;
+    margin-left: 40px;
     margin-top: 40px;
 
 }
