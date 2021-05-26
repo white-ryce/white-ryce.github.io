@@ -52,7 +52,7 @@ body
     height: 150px;
 }
 
-/* New box */
+/* Education */
 .boxTwo
 {
     font-family: 'Quicksand', sans-serif;
@@ -66,6 +66,7 @@ body
     height: 150px;
 }
 
+/* Experience */
 .boxThree
 {
     font-family: 'Quicksand', sans-serif;
@@ -81,6 +82,7 @@ body
     height: 150px;
 }
 
+/* Box on top of resume */ 
 .boxFour
 {
     margin: auto;
@@ -115,6 +117,7 @@ body
     margin: auto;
 }
 
+/* List used for items on the top of the page */
 .skillsList
 {
     font-family: 'Quicksand', sans-serif;
@@ -126,19 +129,19 @@ body
     margin-top: 1em;
 }
 
-.Resume
-{
-    font-family: 'Quicksand', sans-serif;
-    color: #19181A;
-    text-shadow: 1px .5px #ECECEC;
-    text-align: center;
-    text-decoration: underline;
-}
-
+/*This is where a bulk of the infromation is stored */
 .mainBody
 {
     font-family: 'Quicksand', sans-serif;
     color: #474753;
     text-shadow: 1px .5px #ECECEC;
+    width: 33%;
+
+}
+
+/* Right side of the body */
+.sideBody
+{
+    width: 66%;
 }
 
