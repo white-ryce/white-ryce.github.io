@@ -23,7 +23,7 @@ body
 .name
 {
     font-family: 'Montserrat', sans-serif;
-    text-shadow: 6px 3px #a02222;
+    text-shadow: 6px 3px #ECECEC;
     color: #19181A;
     text-align: left;
     margin-left: 40px;
@@ -32,7 +32,7 @@ body
 /* Style for contact information */
 .contact
 {
-    font-family: 'Noto Sans JP', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     text-shadow: 6px 3px #ECECEC;
     color: #19181A;
     text-align: left;
