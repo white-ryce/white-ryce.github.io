@@ -45,7 +45,8 @@ body
     text-shadow: 6px 3px #ECECEC;
     color: #19181A;
     text-align: left;
-    margin-left: 40px;  
+    margin-left: 40px;
+    text-decoration: none;  
 }
 
 /* Body of the site. Maybe the font color I'll use and font-family */
