@@ -170,6 +170,7 @@ body
     color: #19BDFF;
     /*ECECEC*/
     text-decoration: underline;
-    text-shadow: 2px 1px #19181A;
+    text-shadow: 2px 1px #ECECEC;
+    margin-left: 90px;
 }
 
