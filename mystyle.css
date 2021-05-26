@@ -26,6 +26,7 @@ body
     text-shadow: 6px 3px #ECECEC;
     color: #19181A;
     text-align: left;
+    margin-left: 40px;
 }
 
 /* Style for contact information */
@@ -35,6 +36,7 @@ body
     text-shadow: 6px 3px #ECECEC;
     color: #19181A;
     text-align: left;
+    margin-left: 40px;
 }
 
 /* Body of the site. Maybe the font color I'll use and font-family */
