@@ -49,7 +49,7 @@ body
     text-decoration: none;  
 }
 
-.a:link
+.a:link, a:visited
 {
     font-family: 'Montserrat', sans-serif;
     text-shadow: 6px 3px #ECECEC;
@@ -135,7 +135,7 @@ body
 .subHeaders
 {
     font-family: 'Quicksand', sans-serif;
-    color: #72d416;
+    color: #d416b4;
     /*ECECEC*/
     text-decoration: underline;
     text-shadow: 2px 1px #19181A;
