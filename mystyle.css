@@ -49,6 +49,16 @@ body
     text-decoration: none;  
 }
 
+.href
+{
+    font-family: 'Montserrat', sans-serif;
+    text-shadow: 6px 3px #ECECEC;
+    color: #19181A;
+    text-align: left;
+    margin-left: 40px;
+    text-decoration: none;  
+}
+
 /* Body of the site. Maybe the font color I'll use and font-family */
 .bodyOne
 {
@@ -125,7 +135,7 @@ body
 .subHeaders
 {
     font-family: 'Quicksand', sans-serif;
-    color: #ECECEC;
+    color: #c01111;
     /*ECECEC*/
     text-decoration: underline;
     text-shadow: 2px 1px #19181A;
