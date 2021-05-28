@@ -29,6 +29,15 @@ body
     margin-left: 40px;
 }
 
+.test
+{
+    font-family: 'Montserrat', sans-serif;
+    text-shadow: 6px 3px #ECECEC;
+    color: #19181A;
+    text-align: left;
+    margin-left: 40px;
+}
+
 /* Style for contact information */
 .contact
 {
