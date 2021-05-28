@@ -59,6 +59,11 @@ body
     text-decoration: none;  
 }
 
+.a:hover
+{
+    color: #E9322E;
+}
+
 /* Body of the site. Maybe the font color I'll use and font-family */
 .bodyOne
 {
@@ -135,7 +140,7 @@ body
 .subHeaders
 {
     font-family: 'Quicksand', sans-serif;
-    color: #d416b4;
+    color: #16d436;
     /*ECECEC*/
     text-decoration: underline;
     text-shadow: 2px 1px #19181A;
