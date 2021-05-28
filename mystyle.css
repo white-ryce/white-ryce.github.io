@@ -39,17 +39,7 @@ body
     margin-left: 40px;
 }
 
-.linkedin
-{
-    font-family: 'Montserrat', sans-serif;
-    text-shadow: 6px 3px #ECECEC;
-    color: #19181A;
-    text-align: left;
-    margin-left: 40px;
-    text-decoration: none;  
-}
-
-.a:link, a:visited
+.a
 {
     font-family: 'Montserrat', sans-serif;
     text-shadow: 6px 3px #ECECEC;
@@ -140,7 +130,7 @@ body
 .subHeaders
 {
     font-family: 'Quicksand', sans-serif;
-    color: #16d436;
+    color: #1652d4;
     /*ECECEC*/
     text-decoration: underline;
     text-shadow: 2px 1px #19181A;
