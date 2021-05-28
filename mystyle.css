@@ -49,7 +49,7 @@ body
     text-decoration: none;  
 }
 
-.href
+.a
 {
     font-family: 'Montserrat', sans-serif;
     text-shadow: 6px 3px #ECECEC;
@@ -135,7 +135,7 @@ body
 .subHeaders
 {
     font-family: 'Quicksand', sans-serif;
-    color: #c01111;
+    color: #72d416;
     /*ECECEC*/
     text-decoration: underline;
     text-shadow: 2px 1px #19181A;
