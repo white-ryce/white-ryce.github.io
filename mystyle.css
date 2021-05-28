@@ -49,7 +49,7 @@ body
     margin-left: 40px;
 }
 
-.a:link
+.a:link, a:visited
 {
     font-family: 'Montserrat', sans-serif;
     text-shadow: 6px 3px #ECECEC;
@@ -60,11 +60,6 @@ body
 }
 
 .a:hover
-{
-    color: #E9322E;
-}
-
-a:active
 {
     color: #E9322E;
 }
